@@ -1,0 +1,31 @@
+.vendor {
+    width: 35px;
+    height:35px;
+}
+
+.color{
+    background-color: rgb(255, 255, 214);
+}
+
+.custom-form {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    padding: 30px;
+    background-color: #fff;
+  }
+  .form-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .form-description {
+    margin-bottom: 20px;
+  }
+  .btn-purple {
+    background-color: #5e2e91;
+    color: white;
+    border-radius: 20px;
+  }
+  .btn-purple:hover {
+    background-color: #4b2471;
+  }
